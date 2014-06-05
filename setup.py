@@ -10,7 +10,7 @@ version = '[library version:2.2.5]'[17:-1]
 
 setup(
     name='python-openid',
-    version=version,
+    version=version + 'google',
     description='OpenID support for servers and consumers.',
     long_description='''This is a set of Python packages to support use of
 the OpenID decentralized identity system in your application.  Want to enable
